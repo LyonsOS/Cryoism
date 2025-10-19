@@ -1,2 +1,2 @@
-# Cryoism-
+# Cryoism
 Cryogenic Life Expansion 
